@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+nibabel
+nilearn
+neuroquery
+trimesh
+numpy
+scipy
+scikit-learn
+matplotlib
+python-multipart
+pydantic
+httpx
+aiofiles
+pyglet
